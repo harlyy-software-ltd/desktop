@@ -1,0 +1,23 @@
+{
+  "name": "desktop",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harlyy-software-ltd/desktop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harlyy-software-ltd/desktop/issues"
+  },
+  "homepage": "https://github.com/harlyy-software-ltd/desktop#readme",
+  "description": "",
+  "devDependencies": {
+    "electron": "^38.1.2"
+  }
+}
